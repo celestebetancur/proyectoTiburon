@@ -1,24 +1,23 @@
-- Piano-Arpa óptica
-- instrumento Autogenerador sensorial
-- diapasón láser
-- juego de respuesta sonora autónoma
-- autoplaylist que responda a parámetros sensoriales
-- Sonificación de los modelos planetarios en función de la velocidad orbital, música de las esferas
-- acompañante improvisador aleatorio
-- analizador gráfico de forma musical
-- ¿a que suena la matemática?
-- sonificación de estructuras matemáticas simples
-- color o tono
-- batuta director de orquesta de luz, que genere música (aleatoria, generativa, fractal...)
-- habitación de respuesta emotiva
-- construcción de interfaces de todo tipo para usar en modelos matemáticos como datos generativos.
-- eventos de sonificación usando diferentes modelos y algoritmos.
-
-
 **¿Como atraer personas al estudio de las relaciones entre la música y las matemáticas?**
 **¿Como incentivar el uso del computador (laptop) como instrumento musical desde la programación?**
 **¿Como hacer práctica y divertida la investigación musicomatemática?**
 
-- Laptop orchestra
+**¿Como incentivar de manera práctica y divertida la investigación de las relaciones entre la música y matemática?** 
+ 
+- Laptop orchestra enfocada a la programación 
 - Festivales de musica electrónica experimental
-- diseño de instrumentos electrónico o interfaces de interacción
+  - Eventos de sonificación usando diferentes modelos y algoritmos 
+- Diseño de instrumentos electrónicos o interfaces de interacción usando sensores
+  - Piano-Arpa óptica 
+  - Instrumento Autogenerador sensorial
+  - Diapasón láser
+  - Habitación de respuesta emotiva
+  - Batuta director de orquesta de luz, que genere música (aleatoria, generativa, fractal...)
+  - Construcción de interfaces de todo tipo para usar en modelos matemáticos como datos generativos
+  - Autoplaylist que responda a parámetros sensoriales
+  - Color o tono
+- Visualizaciones de datos musicales o sonificación de estructuras matemáticas
+  - Analizador gráfico de forma musical 
+  - Sonificación de estructuras matemáticas simples / ¿a que suena la matemática? / simulaciones
+- Juegos de respuesta sonora autónoma
+- Acompañante improvisador aleatorio
