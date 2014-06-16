@@ -21,5 +21,7 @@
     - Analizador gráfico de forma musical 
     - Sonificación de estructuras matemáticas simples / ¿a que suena la matemática? / simulaciones
   - Acompañante improvisador aleatorio
-- Juegos de respuesta sonora autónoma
+
+  
+**Juegos de respuesta sonora autónoma**
 
